@@ -11,7 +11,7 @@ reinforcement learning, tensorflow + openAI gym implementation of dueling DDQN, 
 # Usage
 For dueling_DQN train:
 
-	python game_main.py --episode=15000 --env_name=MsPacman-v0 --model_type=dueldqn --train=True --load_network=False
+	python game_main.py --episode=10000 --env_name=Solaris-v0 --model_type=dueldqn --train=True --load_network=False
 
 For dueling_DDQN train:
 
