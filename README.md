@@ -23,7 +23,7 @@ For test model:
 
 For game name:
 
-    --env_name=MsPacman-v0
+    --env_name=Solaris-v0
 # Result
 ![game_test](https://github.com/demomagic/Duel_DQN/blob/master/img/game.gif)
 # Summary
